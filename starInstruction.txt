@@ -1,0 +1,12 @@
+The starfield is an interactive simulation of well... flying into a star field
+
+You can press the arrow keys to change the perspective as if you're turning
+into a star tunnel
+
+Press w to speed up the stars, and s to slow down
+
+Press c to toggle between white stars and colorful stars
+
+Press q to quit the game at any time
+
+Press the back button to go back

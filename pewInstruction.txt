@@ -1,0 +1,17 @@
+You are flying into a star field
+
+The goal of this game is to shoot enemies that fly around you
+
+Use the arrow keys to move the ship
+Press space to shoot a missile. All the missiles travel towards the center of
+the starfield.
+
+You have a limited number of bullets. However, green ammo packs will spawn in
+the field. Collect them to gain more ammo.
+Red health packs will also spawn in the field. Collect them to recover health.
+
+Be careful. Touching the enemy's bullets will hurt you
+
+Press q to quit the game and r to restart the game
+
+Press the back button to go back

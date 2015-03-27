@@ -1,0 +1,58 @@
+pre 11/7
+3 hrs (writing basic starfield in TKinter)
+11/7-11/13
+3 hrs (learning pygame)
+2 hrs (convert from TKinter to pygame)
+11/14
+2 hrs (work on pewpewpew)
+11/16
+1 hr (work on menu)
+11/17
+4 hrs (work on menu) (this is taking a lot longer than I expected)
+11/18
+1 hr (work on menu)
+2 hrs (write up proposal and write up competitive analysis)
+1 hr (work on menu) (DONE! ish... shiny)
+
+Overall: 19 hrs
+
+11/20
+0.5 hr (2.5D on pewpewpew)
+11/21
+1 hr (AI/sprite research)
+11/22
+1.5 hrs (implement bullets)
+0.5 hr (add starfield to menus/pewpewpew)
+1 hr (fix starfield)
+1 hr (work on pewpewpew enemies)
+11/23
+2 hrs (kill the enemies)
+11/24
+2.5 hrs (fix stuff...:C and work on implementing actual gameplay)
+11/25
+4 hrs (place pewpewpewship in starfield, continue impelementing gameplay)
+11/26
+2 hrs (implement gameplay)
+
+Overall (for 2nd deliverable): 16 hrs
+
+11/26
+2 hrs (implement gameplay and work on rest of menu)
+11/27
+2 hrs (gameplay, try to implement boss)
+11/28
+3 hrs (fix stuff, get enemies to shoot at you, implement health)
+11/29
+3 hrs (implement writing and loading high scores)
+11/30
+1 hr (the enemies follow each other now!!!)
+1 hr (try to implement pause and fix janky menu)
+12/1
+1 hr (finish implementing the boss)
+2 hr (make everything pretty)
+12/2
+4 hrs (fix reccomendations from study-a-thon and make pretty)
+12/3
+1 hr (fix more things!)
+
+Overall (all 3 weeks): 55 hrs
