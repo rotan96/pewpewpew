@@ -1,8 +1,0 @@
-Open TermProjectPYGAME4.0.py to run the game!!!
-
-Updates:
-put the entire game into the starfield (for perspective)
-changed the ship so it gained some 2.5D
-implemented the enemies
-implemented the bullets & made it disappear if the bullets hit the center
-implemented group collision for bullets & enemies
